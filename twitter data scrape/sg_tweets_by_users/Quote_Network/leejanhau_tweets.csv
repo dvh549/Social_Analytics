@@ -1,182 +1,103 @@
-url,date,rawContent,renderedContent,id,user,replyCount,retweetCount,likeCount,quoteCount,conversationId,lang,source,sourceUrl,sourceLabel,links,media,retweetedTweet,quotedTweet,inReplyToTweetId,inReplyToUser,mentionedUsers,coordinates,place,hashtags,cashtags,card,viewCount,vibe
-https://twitter.com/leejanhau/status/1240259387970600960,2020-03-18 12:50:55+00:00,"@19criticalcare At least for children, there are some data - up to 40% can have coinfection 
+date,renderedContent,user
+2020-03-18 12:50:55+00:00,"@19criticalcare At least for children, there are some data - up to 40% can have coinfection 
 #PedsICU 
 #covid19 #coronavirus 
 
-Clinical and CT features in pediatric patients with COVID‐19 infection: Different points from adults https://t.co/sy3b2pIGUS","@19criticalcare At least for children, there are some data - up to 40% can have coinfection 
-#PedsICU 
-#covid19 #coronavirus 
-
-Clinical and CT features in pediatric patients with COVID‐19 infection: Different points from adults onlinelibrary.wiley.com/doi/full/10.10…",1240259387970600960,https://twitter.com/leejanhau,0,0,2,0,1240255415641952257,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,"[TextLink(text='onlinelibrary.wiley.com/doi/full/10.10…', url='https://onlinelibrary.wiley.com/doi/full/10.1002/ppul.24718?fbclid=IwAR0AN7AXFbURvTHo8xZ7NEQ4es9u3HFFD3mrPz5OIh2AV_Ur-j-UZJAAHFQ#.XnIY27oahgE.twitter', tcourl='https://t.co/sy3b2pIGUS', indices=(228, 251))]",,,,1.2402554156419525e+18,https://twitter.com/19criticalcare,"[User(username='19criticalcare', id=1234548941921882113, displayname='Covid19 - Critical Care Collaboration', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.817832999913, latitude=1.33435500006012)","Place(id='5f1f473ed6455f55', fullName='North-East Region, Singapore', name='North-East Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1287745931857674240,2020-07-27 13:45:29+00:00,#covid19 #coronavirus impacting research,#covid19 #coronavirus impacting research,1287745931857674240,https://twitter.com/leejanhau,0,0,3,0,1287745931857674240,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/LRSorce/status/1287745088483991552,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1286268025352544256,2020-07-23 11:52:49+00:00,"Horton @TheLancet: Trust, Proximity between science and political leaders is key to combat #covid19 #coronavirus
+Clinical and CT features in pediatric patients with COVID‐19 infection: Different points from adults onlinelibrary.wiley.com/doi/full/10.10…",https://twitter.com/leejanhau
+2020-07-27 13:45:29+00:00,#covid19 #coronavirus impacting research,https://twitter.com/leejanhau
+2020-07-23 11:52:49+00:00,"Horton @TheLancet: Trust, Proximity between science and political leaders is key to combat #covid19 #coronavirus
 #pedsICU 
 
-Webinar by @NUSMedicine","Horton @TheLancet: Trust, Proximity between science and political leaders is key to combat #covid19 #coronavirus
-#pedsICU 
-
-Webinar by @NUSMedicine",1286268025352544256,https://twitter.com/leejanhau,0,1,0,0,1286268025352544256,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,,,,"[User(username='TheLancet', id=27013292, displayname='The Lancet', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='NUSMedicine', id=837536313960095744, displayname='NUS Medicine', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus', 'pedsICU']",,,,
-https://twitter.com/leejanhau/status/1286262880065605632,2020-07-23 11:32:22+00:00,"When asked about retraction of hydroxychlroquine paper, Horton @TheLancet: We learned that we must not over react and maintain trust for science to love forward; we need more checks for database studies especially from databases we are not familiar with. 
+Webinar by @NUSMedicine",https://twitter.com/leejanhau
+2020-07-23 11:32:22+00:00,"When asked about retraction of hydroxychlroquine paper, Horton @TheLancet: We learned that we must not over react and maintain trust for science to love forward; we need more checks for database studies especially from databases we are not familiar with. 
 #covid19
-#coronavirus","When asked about retraction of hydroxychlroquine paper, Horton @TheLancet: We learned that we must not over react and maintain trust for science to love forward; we need more checks for database studies especially from databases we are not familiar with. 
-#covid19
-#coronavirus",1286262880065605632,https://twitter.com/leejanhau,0,2,6,0,1286262880065605632,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,,,,"[User(username='TheLancet', id=27013292, displayname='The Lancet', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1286262023857164294,2020-07-23 11:28:58+00:00,"Horton @TheLancet: modeling the response according to influenzae was a major mistake for public health. 
+#coronavirus",https://twitter.com/leejanhau
+2020-07-23 11:28:58+00:00,"Horton @TheLancet: modeling the response according to influenzae was a major mistake for public health. 
 We should have changed after knowing the structure of the #coronavirus #covid19  
 #pedsicu 
 Webinar by @NUSMedicine 
 
-We must indeed learn for the next pandemic","Horton @TheLancet: modeling the response according to influenzae was a major mistake for public health. 
-We should have changed after knowing the structure of the #coronavirus #covid19  
-#pedsicu 
-Webinar by @NUSMedicine 
-
-We must indeed learn for the next pandemic",1286262023857164294,https://twitter.com/leejanhau,0,2,2,0,1286262023857164294,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,,,,"[User(username='TheLancet', id=27013292, displayname='The Lancet', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='NUSMedicine', id=837536313960095744, displayname='NUS Medicine', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['coronavirus', 'covid19', 'pedsicu']",,,,
-https://twitter.com/leejanhau/status/1286261226306072581,2020-07-23 11:25:48+00:00,"Horton @TheLancet: What is striking for #covid19 is the political instability - 
+We must indeed learn for the next pandemic",https://twitter.com/leejanhau
+2020-07-23 11:25:48+00:00,"Horton @TheLancet: What is striking for #covid19 is the political instability - 
 Zero leadership from the USA and the words from USA about China &amp; @WHO  
 This may be the biggest science failure ever. 
 Strong words at #coronavirus webinar organised by @NUSMedicine 
-#pedsICU","Horton @TheLancet: What is striking for #covid19 is the political instability - 
-Zero leadership from the USA and the words from USA about China &amp; @WHO  
-This may be the biggest science failure ever. 
-Strong words at #coronavirus webinar organised by @NUSMedicine 
-#pedsICU",1286261226306072581,https://twitter.com/leejanhau,0,2,4,0,1286261226306072581,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,,,,"[User(username='TheLancet', id=27013292, displayname='The Lancet', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='WHO', id=14499829, displayname='World Health Organization (WHO)', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='NUSMedicine', id=837536313960095744, displayname='NUS Medicine', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus', 'pedsICU']",,,,
-https://twitter.com/leejanhau/status/1286257086016315394,2020-07-23 11:09:21+00:00,"Dale Fisher from @NUSingapore living off the session: 4 main countries in the past week for #covid19 cases - USA, India, Brazil and South Africa 
+#pedsICU",https://twitter.com/leejanhau
+2020-07-23 11:09:21+00:00,"Dale Fisher from @NUSingapore living off the session: 4 main countries in the past week for #covid19 cases - USA, India, Brazil and South Africa 
 #epidemiology 
 #coronavirus 
-#PedsICU","Dale Fisher from @NUSingapore living off the session: 4 main countries in the past week for #covid19 cases - USA, India, Brazil and South Africa 
-#epidemiology 
-#coronavirus 
-#PedsICU",1286257086016315394,https://twitter.com/leejanhau,0,1,0,0,1286257086016315394,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/NUSMedicine/status/1286123179035959298,,,"[User(username='NUSingapore', id=67260538, displayname='NUS', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'epidemiology', 'coronavirus', 'PedsICU']",,,,
-https://twitter.com/leejanhau/status/1284335600095698949,2020-07-18 03:54:03+00:00,"@threadreaderapp unroll please 
+#PedsICU",https://twitter.com/leejanhau
+2020-07-18 03:54:03+00:00,"@threadreaderapp unroll please 
 #PedsICU
 #PedsID
 #covid19
-#coronavirus","@threadreaderapp unroll please 
-#PedsICU
-#PedsID
-#covid19
-#coronavirus",1284335600095698949,https://twitter.com/leejanhau,1,0,0,0,1284335600095698949,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/livvyswann/status/1284131741733724161,,,"[User(username='threadreaderapp', id=895814938995957760, displayname='Thread Reader App', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'PedsID', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1284284258618535936,2020-07-18 00:30:02+00:00,"@threadreaderapp, please do your magic here as well :) 
+#coronavirus",https://twitter.com/leejanhau
+2020-07-18 00:30:02+00:00,"@threadreaderapp, please do your magic here as well :) 
 
 #pedsICU
 #covid19
 #coronavirus
 #mics
 #pimts
-#kawasaki","@threadreaderapp, please do your magic here as well :) 
-
-#pedsICU
-#covid19
-#coronavirus
-#mics
-#pimts
-#kawasaki",1284284258618535936,https://twitter.com/leejanhau,0,0,0,0,1284284258618535936,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/JHSPH_NCRC/status/1284146403778998273,,,"[User(username='threadreaderapp', id=895814938995957760, displayname='Thread Reader App', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['pedsICU', 'covid19', 'coronavirus', 'mics', 'pimts', 'kawasaki']",,,,
-https://twitter.com/leejanhau/status/1283552555071496192,2020-07-16 00:02:31+00:00,"The plot thickens for Pediatric #covid19 #coronavirus 
+#kawasaki",https://twitter.com/leejanhau
+2020-07-16 00:02:31+00:00,"The plot thickens for Pediatric #covid19 #coronavirus 
 Is #pimts #mics #kawasaki part of a similar spectrum? 
 #pedsicu 
 #pedsID
-#pedsrheum","The plot thickens for Pediatric #covid19 #coronavirus 
-Is #pimts #mics #kawasaki part of a similar spectrum? 
-#pedsicu 
-#pedsID
-#pedsrheum",1283552555071496192,https://twitter.com/leejanhau,1,1,5,0,1283552555071496192,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/PICJournalWatch/status/1283485967207280641,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus', 'pimts', 'mics', 'kawasaki', 'pedsicu', 'pedsID', 'pedsrheum']",,,,
-https://twitter.com/leejanhau/status/1283227475711909888,2020-07-15 02:30:46+00:00,"Joining @ongsoomay as co-host is @daisychains2806! Do join us for a lively exchange of ideas and experience in Pediatric #covid19 
+#pedsrheum",https://twitter.com/leejanhau
+2020-07-15 02:30:46+00:00,"Joining @ongsoomay as co-host is @daisychains2806! Do join us for a lively exchange of ideas and experience in Pediatric #covid19 
 
 #pedsICU 
 #pedsID
-#coronavirus","Joining @ongsoomay as co-host is @daisychains2806! Do join us for a lively exchange of ideas and experience in Pediatric #covid19 
-
-#pedsICU 
-#pedsID
-#coronavirus",1283227475711909888,https://twitter.com/leejanhau,0,2,7,0,1283227475711909888,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/yoncabulutmd/status/1283202565555941381,,,"[User(username='ongsoomay', id=2509392176, displayname='Jackie Ong', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='daisychains2806', id=766819329430085633, displayname='Yee Hui', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'pedsICU', 'pedsID', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1283204704944545792,2020-07-15 01:00:17+00:00,"If #PedsICU #PedsID peeps have some time this Saturday, do join us for a ‘tea break’ discussion session on #covid19 #coronavirus in children 
+#coronavirus",https://twitter.com/leejanhau
+2020-07-15 01:00:17+00:00,"If #PedsICU #PedsID peeps have some time this Saturday, do join us for a ‘tea break’ discussion session on #covid19 #coronavirus in children 
 
 @paccman_asia 
 @ESPNIC_Society 
 @PICSociety 
 @LA_Rednetwork 
-@SCCM","If #PedsICU #PedsID peeps have some time this Saturday, do join us for a ‘tea break’ discussion session on #covid19 #coronavirus in children 
-
-@paccman_asia 
-@ESPNIC_Society 
-@PICSociety 
-@LA_Rednetwork 
-@SCCM",1283204704944545792,https://twitter.com/leejanhau,0,8,12,0,1283204704944545792,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/ongsoomay/status/1283201061067485184,,,"[User(username='paccman_asia', id=1048528205655633920, displayname='PACCMAN', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='ESPNIC_Society', id=291715440, displayname='ESPNIC', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='PICSociety', id=2530689979, displayname='Paediatric Critical Care Society', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='LA_Rednetwork', id=930447127343493120, displayname='LARed Network', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='SCCM', id=14676901, displayname='SCCM', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'PedsID', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1282164895702609920,2020-07-12 04:08:27+00:00,"#PedsID
+@SCCM",https://twitter.com/leejanhau
+2020-07-12 04:08:27+00:00,"#PedsID
 #PedsRheum
 #kawasaki disease
 #covid19
 #coronavirus
-#MICS","#PedsID
-#PedsRheum
-#kawasaki disease
-#covid19
-#coronavirus
-#MICS",1282164895702609920,https://twitter.com/leejanhau,1,0,2,0,1282164895702609920,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/SapnaKmd/status/1282135935719665665,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsID', 'PedsRheum', 'kawasaki', 'covid19', 'coronavirus', 'MICS']",,,,
-https://twitter.com/leejanhau/status/1281403928614072320,2020-07-10 01:44:38+00:00,"#PedsICU
+#MICS",https://twitter.com/leejanhau
+2020-07-10 01:44:38+00:00,"#PedsICU
 #PedsID
 #coronavirus
 #covid19
 #kawasaki disease 
 #MISC
-#PIMSTS","#PedsICU
-#PedsID
-#coronavirus
-#covid19
-#kawasaki disease 
-#MISC
-#PIMSTS",1281403928614072320,https://twitter.com/leejanhau,0,1,0,0,1281403928614072320,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/pic_pram/status/1281355814981242881,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'PedsID', 'coronavirus', 'covid19', 'kawasaki', 'MISC', 'PIMSTS']",,,,
-https://twitter.com/leejanhau/status/1272677772490493952,2020-06-15 23:50:00+00:00,"#PedsICU #PedsID 
+#PIMSTS",https://twitter.com/leejanhau
+2020-06-15 23:50:00+00:00,"#PedsICU #PedsID 
 Do register so that you can at least get the recorded version of this talk. The recording will useful for those in different time zones 
 #covid19
-#coronavirus","#PedsICU #PedsID 
-Do register so that you can at least get the recorded version of this talk. The recording will useful for those in different time zones 
-#covid19
-#coronavirus",1272677772490493952,https://twitter.com/leejanhau,0,1,4,0,1272677772490493952,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/DrHeidiFlori/status/1272625183493435395,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'PedsID', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1267047457826893826,2020-05-31 10:57:09+00:00,"More work to be done before we really understand the differences in epidemiology between children and adults in #covid19 #coronavirus
+#coronavirus",https://twitter.com/leejanhau
+2020-05-31 10:57:09+00:00,"More work to be done before we really understand the differences in epidemiology between children and adults in #covid19 #coronavirus
 
 #pedsicu
 #clinicalepidemiology 
 
-How do children spread the coronavirus? The science still isn’t clear https://t.co/FwwBbG2TXw","More work to be done before we really understand the differences in epidemiology between children and adults in #covid19 #coronavirus
-
-#pedsicu
-#clinicalepidemiology 
-
-How do children spread the coronavirus? The science still isn’t clear nature.com/articles/d4158…",1267047457826893826,https://twitter.com/leejanhau,0,2,8,0,1267047457826893826,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,"[TextLink(text='nature.com/articles/d4158…', url='https://www.nature.com/articles/d41586-020-01354-0', tcourl='https://t.co/FwwBbG2TXw', indices=(238, 261))]",,,,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus', 'pedsicu', 'clinicalepidemiology']",,,,
-https://twitter.com/leejanhau/status/1266344948263055360,2020-05-29 12:25:37+00:00,"Researchers have an ethical duty to ensure that methods are robust and reproducible and results accounted for with acknowledgement of limitations... There are implications of our work.. 
+How do children spread the coronavirus? The science still isn’t clear nature.com/articles/d4158…",https://twitter.com/leejanhau
+2020-05-29 12:25:37+00:00,"Researchers have an ethical duty to ensure that methods are robust and reproducible and results accounted for with acknowledgement of limitations... There are implications of our work.. 
 #academia
 #clinicalresearch
 #covid19
 #coronavirus 
-#PedsICU","Researchers have an ethical duty to ensure that methods are robust and reproducible and results accounted for with acknowledgement of limitations... There are implications of our work.. 
-#academia
-#clinicalresearch
-#covid19
-#coronavirus 
-#PedsICU",1266344948263055360,https://twitter.com/leejanhau,0,2,8,1,1266344948263055360,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/KathMaitland/status/1266056101495214082,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['academia', 'clinicalresearch', 'covid19', 'coronavirus', 'PedsICU']",,,,
-https://twitter.com/leejanhau/status/1260781201171701761,2020-05-14 03:57:17+00:00,"#academia
+#PedsICU",https://twitter.com/leejanhau
+2020-05-14 03:57:17+00:00,"#academia
 #pedsICU
 #covid19
 #coronavirus 
 
 A phrase that I learned yday seems to important in this area: ‘The only thing you need to do stat is think’ 
 
-Perhaps more thinking about designs, methods before rushing for the bandwagon is crucial, more so during these times","#academia
-#pedsICU
-#covid19
-#coronavirus 
-
-A phrase that I learned yday seems to important in this area: ‘The only thing you need to do stat is think’ 
-
-Perhaps more thinking about designs, methods before rushing for the bandwagon is crucial, more so during these times",1260781201171701761,https://twitter.com/leejanhau,1,2,4,0,1260781201171701761,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/M_Duffett/status/1260668592166666240,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['academia', 'pedsICU', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1252093520581554178,2020-04-20 04:35:32+00:00,"@19criticalcare @COVID19DataTeam @CovidPediatrics  
+Perhaps more thinking about designs, methods before rushing for the bandwagon is crucial, more so during these times",https://twitter.com/leejanhau
+2020-04-20 04:35:32+00:00,"@19criticalcare @COVID19DataTeam @CovidPediatrics  
 Some nice stuff to considering adapting to local needs and logistics in the event of resuscitation in #covid19 #coronavirus  
-#criticalcare #intensivecare #PedsICU","@19criticalcare @COVID19DataTeam @CovidPediatrics  
-Some nice stuff to considering adapting to local needs and logistics in the event of resuscitation in #covid19 #coronavirus  
-#criticalcare #intensivecare #PedsICU",1252093520581554178,https://twitter.com/leejanhau,0,0,0,0,1252093520581554178,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/daisychains2806/status/1252086702660677633,,,"[User(username='19criticalcare', id=1234548941921882113, displayname='Covid19 - Critical Care Collaboration', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='COVID19DataTeam', id=1235694154249916421, displayname='Pediatric COVID-19 Open Data Analysis Group', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='CovidPediatrics', id=1239188660572037120, displayname='Pediatric COVID-19', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus', 'criticalcare', 'intensivecare', 'PedsICU']",,,,
-https://twitter.com/leejanhau/status/1252088163482218497,2020-04-20 04:14:15+00:00,"Do check out this nicely done short #resuscitation video by the team at KKH #Singapore 
+#criticalcare #intensivecare #PedsICU",https://twitter.com/leejanhau
+2020-04-20 04:14:15+00:00,"Do check out this nicely done short #resuscitation video by the team at KKH #Singapore 
 Particularly applicable in #covid19 #coronavirus 
 #PedsICU 
 @paccman_asia 
@@ -184,112 +105,62 @@ Particularly applicable in #covid19 #coronavirus
 @SCCM 
 @ESPNIC_Society 
 @LA_Rednetwork 
-@VinayMNadkarni","Do check out this nicely done short #resuscitation video by the team at KKH #Singapore 
-Particularly applicable in #covid19 #coronavirus 
-#PedsICU 
-@paccman_asia 
-@WFPICCS 
-@SCCM 
-@ESPNIC_Society 
-@LA_Rednetwork 
-@VinayMNadkarni",1252088163482218497,https://twitter.com/leejanhau,0,4,7,2,1252088163482218497,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/daisychains2806/status/1252086702660677633,,,"[User(username='paccman_asia', id=1048528205655633920, displayname='PACCMAN', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='WFPICCS', id=4000028127, displayname='WFPICCS', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='SCCM', id=14676901, displayname='SCCM', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='ESPNIC_Society', id=291715440, displayname='ESPNIC', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='LA_Rednetwork', id=930447127343493120, displayname='LARed Network', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='VinayMNadkarni', id=950776519, displayname='Vinay Nadkarni', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['resuscitation', 'Singapore', 'covid19', 'coronavirus', 'PedsICU']",,,,
-https://twitter.com/leejanhau/status/1251804655182479360,2020-04-19 09:27:41+00:00,"@PravinPICU @DrAmarMOH May be related to the prothrombotic state in #covid19 #coronavirus 
+@VinayMNadkarni",https://twitter.com/leejanhau
+2020-04-19 09:27:41+00:00,"@PravinPICU @DrAmarMOH May be related to the prothrombotic state in #covid19 #coronavirus 
 #PedsICU
-#Dermatology","@PravinPICU @DrAmarMOH May be related to the prothrombotic state in #covid19 #coronavirus 
-#PedsICU
-#Dermatology",1251804655182479360,https://twitter.com/leejanhau,0,0,1,0,1251380521591959554,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,,1.2517598107787878e+18,https://twitter.com/PravinPICU,"[User(username='PravinPICU', id=950643677113868288, displayname='Pravin', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='DrAmarMOH', id=2430140064, displayname='Amar-Singh HSS', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus', 'PedsICU', 'Dermatology']",,,,
-https://twitter.com/leejanhau/status/1250295624898981888,2020-04-15 05:31:21+00:00,"Good read for #PedsICU folks
+#Dermatology",https://twitter.com/leejanhau
+2020-04-15 05:31:21+00:00,"Good read for #PedsICU folks
 A good revision on respiratory physiology 
 
 #PedsPulm 
 #covid19
-#coronavirus","Good read for #PedsICU folks
-A good revision on respiratory physiology 
-
-#PedsPulm 
-#covid19
-#coronavirus",1250295624898981888,https://twitter.com/leejanhau,0,1,0,0,1250295624898981888,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/arntfield/status/1250103224813735938,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'PedsPulm', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1249878344356651008,2020-04-14 01:53:13+00:00,"Happy to share our team’s work on #ECMO during pandemic. Some historical perspective: ECMO didn’t really take off during #SARS but in #H1N1 pandemic. Scattered experience in #MersCoV. What’ll the experience be in #covid19 #coronavirus?
+#coronavirus",https://twitter.com/leejanhau
+2020-04-14 01:53:13+00:00,"Happy to share our team’s work on #ECMO during pandemic. Some historical perspective: ECMO didn’t really take off during #SARS but in #H1N1 pandemic. Scattered experience in #MersCoV. What’ll the experience be in #covid19 #coronavirus?
 #pedsICU
 @ecmocard 
 
-https://t.co/efCb49Dojs","Happy to share our team’s work on #ECMO during pandemic. Some historical perspective: ECMO didn’t really take off during #SARS but in #H1N1 pandemic. Scattered experience in #MersCoV. What’ll the experience be in #covid19 #coronavirus?
-#pedsICU
-@ecmocard 
-
-annals.edu.sg/pdf/special/RA…",1249878344356651008,https://twitter.com/leejanhau,0,7,17,0,1249878344356651008,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,"[TextLink(text='annals.edu.sg/pdf/special/RA…', url='http://www.annals.edu.sg/pdf/special/RA20046.PDF', tcourl='https://t.co/efCb49Dojs', indices=(257, 280))]",,,,,,"[User(username='ecmocard', id=1529975824333836288, displayname='ecmocard study', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['ECMO', 'SARS', 'H1N1', 'MersCoV', 'covid19', 'coronavirus', 'pedsICU']",,,,
-https://twitter.com/leejanhau/status/1246360261159579649,2020-04-04 08:53:37+00:00,"#criticalcare #intensivecare
+annals.edu.sg/pdf/special/RA…",https://twitter.com/leejanhau
+2020-04-04 08:53:37+00:00,"#criticalcare #intensivecare
 #ARDS 
 #PedsICU
 
 Insightful observations for pulmonary mechanics in #covid19 #coronavirus patients
 
-A nice short read","#criticalcare #intensivecare
-#ARDS 
-#PedsICU
-
-Insightful observations for pulmonary mechanics in #covid19 #coronavirus patients
-
-A nice short read",1246360261159579649,https://twitter.com/leejanhau,0,3,5,0,1246360261159579649,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/yourICM/status/1246051334291324928,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['criticalcare', 'intensivecare', 'ARDS', 'PedsICU', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1246317658795958272,2020-04-04 06:04:19+00:00,"@HonLiangTan @DavidKuICUMelb 
+A nice short read",https://twitter.com/leejanhau
+2020-04-04 06:04:19+00:00,"@HonLiangTan @DavidKuICUMelb 
 Can help spread the word around? Need your #criticalcare #intensivecare contacts in #Asia for this survey 
 
 #covid19
-#coronavirus","@HonLiangTan @DavidKuICUMelb 
-Can help spread the word around? Need your #criticalcare #intensivecare contacts in #Asia for this survey 
+#coronavirus",https://twitter.com/leejanhau
+2020-04-03 11:08:23+00:00,"Aiming to get more Asian participation in this important survey on challenges in #criticalcare  #intensivecare #PedsICU research during #COVID19 #coronavirus 
 
-#covid19
-#coronavirus",1246317658795958272,https://twitter.com/leejanhau,0,1,0,0,1246317658795958272,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/M_Duffett/status/1246084626898210817,,,"[User(username='HonLiangTan', id=3236477199, displayname='HonLiang', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='DavidKuICUMelb', id=2856078252, displayname='David Ku', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['criticalcare', 'intensivecare', 'Asia', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1246031791460192257,2020-04-03 11:08:23+00:00,"Aiming to get more Asian participation in this important survey on challenges in #criticalcare  #intensivecare #PedsICU research during #COVID19 #coronavirus 
-
-Can help spread the word please? @paccman_asia @SICMSG @GraemeMacLaren @ongsoomay @CsGancs @PravinPICU @ChorYek https://t.co/UjhqXW6JRO","Aiming to get more Asian participation in this important survey on challenges in #criticalcare  #intensivecare #PedsICU research during #COVID19 #coronavirus 
-
-Can help spread the word please? @paccman_asia @SICMSG @GraemeMacLaren @ongsoomay @CsGancs @PravinPICU @ChorYek https://t.co/UjhqXW6JRO",1246031791460192257,https://twitter.com/leejanhau,0,10,9,0,1246031791460192257,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,"[Photo(previewUrl='https://pbs.twimg.com/media/EUrLTuHUYAAFZPI?format=jpg&name=small', fullUrl='https://pbs.twimg.com/media/EUrLTuHUYAAFZPI?format=jpg&name=large', altText=None)]",,https://twitter.com/M_Duffett/status/1245654376300994563,,,"[User(username='paccman_asia', id=1048528205655633920, displayname='PACCMAN', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='SICMSG', id=4098428714, displayname='SICM', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='GraemeMacLaren', id=3219985602, displayname='Graeme MacLaren', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='ongsoomay', id=2509392176, displayname='Jackie Ong', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='PravinPICU', id=950643677113868288, displayname='Pravin', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='ChorYek', id=1005981819123085312, displayname='Chor Yek Kee', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['criticalcare', 'intensivecare', 'PedsICU', 'COVID19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1241227917960425472,2020-03-21 04:59:31+00:00,"#HumanityUnited
+Can help spread the word please? @paccman_asia @SICMSG @GraemeMacLaren @ongsoomay @CsGancs @PravinPICU @ChorYek https://t.co/UjhqXW6JRO",https://twitter.com/leejanhau
+2020-03-21 04:59:31+00:00,"#HumanityUnited
 Whilst countries close their borders, there are other ways we can support each other during this time 
 #covid19
 #coronavirus
-#PedsICU","#HumanityUnited
-Whilst countries close their borders, there are other ways we can support each other during this time 
-#covid19
-#coronavirus
-#PedsICU",1241227917960425472,https://twitter.com/leejanhau,0,2,2,0,1241227917960425472,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/fortondoando/status/1241171560112648192,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['HumanityUnited', 'covid19', 'coronavirus', 'PedsICU']",,,,
-https://twitter.com/leejanhau/status/1241175146393522176,2020-03-21 01:29:49+00:00,"Nice illustration on how good technique helps 
+#PedsICU",https://twitter.com/leejanhau
+2020-03-21 01:29:49+00:00,"Nice illustration on how good technique helps 
 #covid19
 #coronavirus
 #pedsICU
-#FlattenTheCurve","Nice illustration on how good technique helps 
-#covid19
-#coronavirus
-#pedsICU
-#FlattenTheCurve",1241175146393522176,https://twitter.com/leejanhau,0,1,1,0,1241175146393522176,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/19criticalcare/status/1241173397087948804,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['covid19', 'coronavirus', 'pedsICU', 'FlattenTheCurve']",,,,
-https://twitter.com/leejanhau/status/1240658919778705409,2020-03-19 15:18:31+00:00,"@paccman_asia 
+#FlattenTheCurve",https://twitter.com/leejanhau
+2020-03-19 15:18:31+00:00,"@paccman_asia 
 #PedsICU 
 Block your calendars for this  
 #covid19
-#coronavirus","@paccman_asia 
-#PedsICU 
-Block your calendars for this  
-#covid19
-#coronavirus",1240658919778705409,https://twitter.com/leejanhau,0,1,1,0,1240658919778705409,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/gracie_leo/status/1240658153559052288,,,"[User(username='paccman_asia', id=1048528205655633920, displayname='PACCMAN', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1240259387970600960,2020-03-18 12:50:55+00:00,"@19criticalcare At least for children, there are some data - up to 40% can have coinfection 
+#coronavirus",https://twitter.com/leejanhau
+2020-03-18 12:50:55+00:00,"@19criticalcare At least for children, there are some data - up to 40% can have coinfection 
 #PedsICU 
 #covid19 #coronavirus 
 
-Clinical and CT features in pediatric patients with COVID‐19 infection: Different points from adults https://t.co/sy3b2pIGUS","@19criticalcare At least for children, there are some data - up to 40% can have coinfection 
-#PedsICU 
-#covid19 #coronavirus 
-
-Clinical and CT features in pediatric patients with COVID‐19 infection: Different points from adults onlinelibrary.wiley.com/doi/full/10.10…",1240259387970600960,https://twitter.com/leejanhau,0,0,2,0,1240255415641952257,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,"[TextLink(text='onlinelibrary.wiley.com/doi/full/10.10…', url='https://onlinelibrary.wiley.com/doi/full/10.1002/ppul.24718?fbclid=IwAR0AN7AXFbURvTHo8xZ7NEQ4es9u3HFFD3mrPz5OIh2AV_Ur-j-UZJAAHFQ#.XnIY27oahgE.twitter', tcourl='https://t.co/sy3b2pIGUS', indices=(228, 251))]",,,,1.2402554156419525e+18,https://twitter.com/19criticalcare,"[User(username='19criticalcare', id=1234548941921882113, displayname='Covid19 - Critical Care Collaboration', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.817832999913, latitude=1.33435500006012)","Place(id='5f1f473ed6455f55', fullName='North-East Region, Singapore', name='North-East Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1240083326947344384,2020-03-18 01:11:19+00:00,"@SICMSG @HonLiangTan @jensenngjs 
+Clinical and CT features in pediatric patients with COVID‐19 infection: Different points from adults onlinelibrary.wiley.com/doi/full/10.10…",https://twitter.com/leejanhau
+2020-03-18 01:11:19+00:00,"@SICMSG @HonLiangTan @jensenngjs 
 Any advice for this? Am sure #criticalcare #intensivecare folks will appreciate our experience for this.
 #covid19
-#coronavirus","@SICMSG @HonLiangTan @jensenngjs 
-Any advice for this? Am sure #criticalcare #intensivecare folks will appreciate our experience for this.
-#covid19
-#coronavirus",1240083326947344384,https://twitter.com/leejanhau,1,2,3,0,1240083326947344384,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/19criticalcare/status/1240022141082501126,,,"[User(username='SICMSG', id=4098428714, displayname='SICM', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='HonLiangTan', id=3236477199, displayname='HonLiang', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='jensenngjs', id=1909503060, displayname='Jensen Ng', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['criticalcare', 'intensivecare', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1238296574184148994,2020-03-13 02:51:24+00:00,Some pearls for #criticalcare #intensivecare #pedsicu for managing critically ill #covid19 #coronavirus patients,Some pearls for #criticalcare #intensivecare #pedsicu for managing critically ill #covid19 #coronavirus patients,1238296574184148994,https://twitter.com/leejanhau,0,1,3,0,1238296574184148994,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/19criticalcare/status/1238235887961604097,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['criticalcare', 'intensivecare', 'pedsicu', 'covid19', 'coronavirus']",,,,
-https://twitter.com/leejanhau/status/1237891437624086528,2020-03-12 00:01:32+00:00,"This is good read. Fairly long but worth it. 
+#coronavirus",https://twitter.com/leejanhau
+2020-03-13 02:51:24+00:00,Some pearls for #criticalcare #intensivecare #pedsicu for managing critically ill #covid19 #coronavirus patients,https://twitter.com/leejanhau
+2020-03-12 00:01:32+00:00,"This is good read. Fairly long but worth it. 
 
 #ActNow
 #SocialDistancing
@@ -299,32 +170,16 @@ https://twitter.com/leejanhau/status/1237891437624086528,2020-03-12 00:01:32+00:
 #CriticalCare
 #IntensiveCare
 
-#Coronavirus: Why You Must Act Now by @tomaspueyo https://t.co/KQS4RcoLX6","This is good read. Fairly long but worth it. 
-
-#ActNow
-#SocialDistancing
-#FlattenTheCurve 
-#COVID19
-#PedsICU
-#CriticalCare
-#IntensiveCare
-
-#Coronavirus: Why You Must Act Now by @tomaspueyo link.medium.com/aNvjs2ctL4",1237891437624086528,https://twitter.com/leejanhau,0,9,9,0,1237891437624086528,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,"[TextLink(text='link.medium.com/aNvjs2ctL4', url='https://link.medium.com/aNvjs2ctL4', tcourl='https://t.co/KQS4RcoLX6', indices=(189, 212))]",,,,,,"[User(username='tomaspueyo', id=22346932, displayname='Tomas Pueyo', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['ActNow', 'SocialDistancing', 'FlattenTheCurve', 'COVID19', 'PedsICU', 'CriticalCare', 'IntensiveCare', 'Coronavirus']",,,,
-https://twitter.com/leejanhau/status/1237179805109370882,2020-03-10 00:53:45+00:00,"A quick primer for #PedsICU
+#Coronavirus: Why You Must Act Now by @tomaspueyo link.medium.com/aNvjs2ctL4",https://twitter.com/leejanhau
+2020-03-10 00:53:45+00:00,"A quick primer for #PedsICU
 #COVID19
 #coronavirus 
-#PedsPulm","A quick primer for #PedsICU
-#COVID19
-#coronavirus 
-#PedsPulm",1237179805109370882,https://twitter.com/leejanhau,0,1,2,0,1237179805109370882,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/apsmunro/status/1236996626180341761,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'COVID19', 'coronavirus', 'PedsPulm']",,,,
-https://twitter.com/leejanhau/status/1236473908074672129,2020-03-08 02:08:46+00:00,"My main take home message from this very nice #epidemiology piece is that in #COVID19, everyone (and I mean, everyone) has a role to play to influence the course of #coronavirus 
+#PedsPulm",https://twitter.com/leejanhau
+2020-03-08 02:08:46+00:00,"My main take home message from this very nice #epidemiology piece is that in #COVID19, everyone (and I mean, everyone) has a role to play to influence the course of #coronavirus 
 #DoYourPart
 #PedsICU
-#PedsID","My main take home message from this very nice #epidemiology piece is that in #COVID19, everyone (and I mean, everyone) has a role to play to influence the course of #coronavirus 
-#DoYourPart
-#PedsICU
-#PedsID",1236473908074672129,https://twitter.com/leejanhau,0,4,8,0,1236473908074672129,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/TheLancet/status/1236003851209256963,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['epidemiology', 'COVID19', 'coronavirus', 'DoYourPart', 'PedsICU', 'PedsID']",,,,
-https://twitter.com/leejanhau/status/1236114566406266880,2020-03-07 02:20:53+00:00,"A timely article during this time. #COVID19 patients may need ECMO support 
+#PedsID",https://twitter.com/leejanhau
+2020-03-07 02:20:53+00:00,"A timely article during this time. #COVID19 patients may need ECMO support 
 #coronavirus
 #criticalcare
 #intensivecare
@@ -332,55 +187,28 @@ https://twitter.com/leejanhau/status/1236114566406266880,2020-03-07 02:20:53+00:
 #ECMO
 @ELSOOrg 
 @EcmoPedi 
-@19criticalcare","A timely article during this time. #COVID19 patients may need ECMO support 
-#coronavirus
-#criticalcare
-#intensivecare
-#PedsICU
-#ECMO
-@ELSOOrg 
-@EcmoPedi 
-@19criticalcare",1236114566406266880,https://twitter.com/leejanhau,0,1,1,0,1236114566406266880,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/GraemeMacLaren/status/1236094852699316224,,,"[User(username='ELSOOrg', id=2153370870, displayname='ELSO', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='EcmoPedi', id=1058006958937161731, displayname='PediECMO', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None), User(username='19criticalcare', id=1234548941921882113, displayname='Covid19 - Critical Care Collaboration', rawDescription=None, renderedDescription=None, descriptionLinks=None, verified=None, created=None, followersCount=None, friendsCount=None, statusesCount=None, favouritesCount=None, listedCount=None, mediaCount=None, location=None, protected=None, link=None, profileImageUrl=None, profileBannerUrl=None, label=None)]","Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['COVID19', 'coronavirus', 'criticalcare', 'intensivecare', 'PedsICU', 'ECMO']",,,,
-https://twitter.com/leejanhau/status/1234996367514161153,2020-03-04 00:17:33+00:00,"One of the first description of #COVID19 viral load in relatively well child. 
+@19criticalcare",https://twitter.com/leejanhau
+2020-03-04 00:17:33+00:00,"One of the first description of #COVID19 viral load in relatively well child. 
 #coronavirus
 #PedsICU
 #PedsID
 #epidemiology 
-https://t.co/GhzusXymzc","One of the first description of #COVID19 viral load in relatively well child. 
-#coronavirus
-#PedsICU
-#PedsID
-#epidemiology 
-academic.oup.com/cid/advance-ar…",1234996367514161153,https://twitter.com/leejanhau,0,6,8,0,1234996367514161153,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,"[TextLink(text='academic.oup.com/cid/advance-ar…', url='https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa201/5766416#.Xl7zHS3PgSo.twitter', tcourl='https://t.co/GhzusXymzc', indices=(124, 147))]",,,,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['COVID19', 'coronavirus', 'PedsICU', 'PedsID', 'epidemiology']",,,,
-https://twitter.com/leejanhau/status/1234993047953215488,2020-03-04 00:04:22+00:00,"#COVID19 experience in #Singapore
+academic.oup.com/cid/advance-ar…",https://twitter.com/leejanhau
+2020-03-04 00:04:22+00:00,"#COVID19 experience in #Singapore
 Description of the first 18 patients 
 #coronavirus
 #epidemiology
 #PedsICU
 #CriticalCare 
-https://t.co/vY3UhNdIZU","#COVID19 experience in #Singapore
-Description of the first 18 patients 
-#coronavirus
-#epidemiology
-#PedsICU
-#CriticalCare 
-ja.ma/32LNKt7",1234993047953215488,https://twitter.com/leejanhau,0,5,6,1,1234993047953215488,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,"[TextLink(text='ja.ma/32LNKt7', url='https://ja.ma/32LNKt7', tcourl='https://t.co/vY3UhNdIZU', indices=(123, 146))]",,,,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['COVID19', 'Singapore', 'coronavirus', 'epidemiology', 'PedsICU', 'CriticalCare']",,,,
-https://twitter.com/leejanhau/status/1229587123709177856,2020-02-18 02:03:09+00:00,"Amazing to have colleagues in #coronavirus epicenter sharing their experience live at #CCC49. 
+ja.ma/32LNKt7",https://twitter.com/leejanhau
+2020-02-18 02:03:09+00:00,"Amazing to have colleagues in #coronavirus epicenter sharing their experience live at #CCC49. 
 #COVID19
-#PedsICU","Amazing to have colleagues in #coronavirus epicenter sharing their experience live at #CCC49. 
-#COVID19
-#PedsICU",1229587123709177856,https://twitter.com/leejanhau,0,4,5,0,1229587123709177856,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/manette_md/status/1229525094948593664,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['coronavirus', 'CCC49', 'COVID19', 'PedsICU']",,,,
-https://twitter.com/leejanhau/status/1228281594542092293,2020-02-14 11:35:27+00:00,"#PedsICU
+#PedsICU",https://twitter.com/leejanhau
+2020-02-14 11:35:27+00:00,"#PedsICU
 #COVID19
 #coronavirus 
-It is heartening to get a message from the prime minister of #Singapore during this challenging period.. Thank you!!!","#PedsICU
-#COVID19
-#coronavirus 
-It is heartening to get a message from the prime minister of #Singapore during this challenging period.. Thank you!!!",1228281594542092293,https://twitter.com/leejanhau,0,1,0,0,1228281594542092293,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/leehsienloong/status/1228122720455389184,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'COVID19', 'coronavirus', 'Singapore']",,,,
-https://twitter.com/leejanhau/status/1226323625298391040,2020-02-09 01:55:10+00:00,"#PedsICU 
+It is heartening to get a message from the prime minister of #Singapore during this challenging period.. Thank you!!!",https://twitter.com/leejanhau
+2020-02-09 01:55:10+00:00,"#PedsICU 
 #coronavirus 
 #nCoV2019 
-Some insights into pediatric cases...","#PedsICU 
-#coronavirus 
-#nCoV2019 
-Some insights into pediatric cases...",1226323625298391040,https://twitter.com/leejanhau,0,2,4,0,1226323625298391040,en,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>",http://twitter.com/download/iphone,Twitter for iPhone,,,,https://twitter.com/YaseenarabiYa/status/1226056860471447552,,,,"Coordinates(longitude=103.749959507073, latitude=1.2123138339349)","Place(id='58a4c3a0d54e1400', fullName='Central Region, Singapore', name='Central Region', type='admin', country='Singapore', countryCode='SG')","['PedsICU', 'coronavirus', 'nCoV2019']",,,,
+Some insights into pediatric cases...",https://twitter.com/leejanhau

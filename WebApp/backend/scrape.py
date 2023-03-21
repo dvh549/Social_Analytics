@@ -8,10 +8,10 @@ stopwords.extend(["&amp", "amp"])
 import yake
 kw_extractor = yake.KeywordExtractor(n=3, top=3, stopwords=stopwords)
 
-def retrieve_tweets_sentiments_and_keywords(start, end, location):
+def retrieve_tweets_sentiments_and_keywords(start, end, tweets, location):
     query, tweets_list = f'covid since:{start} until:{end} lang:en near:"{location}"', []
     for i, tweet in enumerate(sntwitter.TwitterSearchScraper(query).get_items()): 
-        if i >= 100: # number of tweets you want to scrape
+        if i >= tweets: # number of tweets you want to scrape
             break
         # declare the attributes to be returned
         tweets_list.append([tweet.url, tweet.date, tweet.rawContent, 
@@ -55,4 +55,4 @@ def get_top_keyphrases(tweets_df):
     tweets = " ".join(tweets_df.renderedContent)
     return [kp[0] for kp in kw_extractor.extract_keywords(tweets)]
 
-print(retrieve_tweets_sentiments_and_keywords("2021-12-30_23:59:59_UTC", "2021-12-31_23:59:59_UTC", "Singapore"))
+print(retrieve_tweets_sentiments_and_keywords("2021-12-30_23:59:59_UTC", "2021-12-31_23:59:59_UTC", 10, "Singapore"))

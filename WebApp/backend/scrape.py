@@ -55,4 +55,5 @@ def get_top_keyphrases(tweets_df):
     tweets = " ".join(tweets_df.renderedContent)
     return [kp[0] for kp in kw_extractor.extract_keywords(tweets)]
 
-print(retrieve_tweets_sentiments_and_keywords("2021-12-30_23:59:59_UTC", "2021-12-31_23:59:59_UTC", 10, "Singapore"))
+if __name__ == "__main__":
+    print(retrieve_tweets_sentiments_and_keywords("2021-12-30_23:59:59_UTC", "2021-12-31_23:59:59_UTC", 10, "Singapore"))

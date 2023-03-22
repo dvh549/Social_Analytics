@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+twitter data scrape/sg_tweets_by_users/Retrieving User Tweets.ipynb
+twitter data scrape/COVID Scrape Twitter snscrape.ipynb

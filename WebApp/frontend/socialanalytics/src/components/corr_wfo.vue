@@ -8,9 +8,9 @@
                                     <h6 class="m-0 font-weight-bold text-primary">Correlation: Work From Home</h6>
                                 </div>
                                 <!-- Card Body -->
-                                <div class="card-body" style="height:1000px">
+                                <div class="card-body" style="height:1400px">
                                     <div class="chart-area">
-                                      <apexchart type="heatmap" height="900px" :options="options" :series="corr_yes"></apexchart>
+                                      <apexchart type="heatmap" height="1300px" :options="options" :series="corr_yes"></apexchart>
                                     </div>
                                 </div>
                             </div>
@@ -25,7 +25,7 @@
                                     <h6 class="m-0 font-weight-bold text-primary" >Explaination</h6>
                                 </div>
                                 <!-- Card Body -->
-                                <div class="card-body" style="height:1000px">
+                                <div class="card-body" style="height:1400px">
                                     <div class="chart-pie pt-4 pb-2">
                                         <p>
                                             According to the heatmap generated from the correlation analysis, for cluster 0, the “40s age group” has the highest correlation to it, followed by “Tutor”, supporting our cluster analysis that it consisted of people having to work from office not because they want to but because they must. For cluster 1, we see the highest correlation between it and “RM_lazy”, followed by the “20s age group”, which supports our cluster analysis that cluster 1 consists of people in their 20s who are focused on climbing the corporate ladder and would feel lazy if they chose to work from home, and potentially affect their chances for promotion/career advancements.

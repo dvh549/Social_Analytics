@@ -8,7 +8,7 @@
                                     <h6 class="m-0 font-weight-bold text-primary">Cluster 1</h6>
                                 </div>
                                 <!-- Card Body -->
-                                <div class="card-body" style="height:1000px">
+                                <div class="card-body" style="height:1400px">
                                     <div class="chart-area">
                                       <apexchart type="heatmap" height="900px" :options="options" :series="corr_yes"></apexchart>
                                     </div>
@@ -25,7 +25,7 @@
                                     <h6 class="m-0 font-weight-bold text-primary" >Explaination</h6>
                                 </div>
                                 <!-- Card Body -->
-                                <div class="card-body" style="height:1000px">
+                                <div class="card-body" style="height:1400px">
                                     <div class="chart-pie pt-4 pb-2">
                                         <p>
                                             Cluster 1 – This group are likely to be employees in their 20s striving to achieve the best in their respective professions where they are hyper-focused but also stressed. They prefer to work from office likely because they get lazy and unmotivated at home which would affect their job performances.

@@ -8,9 +8,9 @@
                                     <h6 class="m-0 font-weight-bold text-primary">Correlation: Work From Home</h6>
                                 </div>
                                 <!-- Card Body -->
-                                <div class="card-body" style="height:1000px">
+                                <div class="card-body" style="height:1400px">
                                     <div class="chart-area">
-                                      <apexchart type="heatmap" height="900px" :options="options" :series="corr_yes"></apexchart>
+                                      <apexchart type="heatmap" height="1300px" :options="options" :series="corr_yes"></apexchart>
                                     </div>
                                 </div>
                             </div>
@@ -25,7 +25,7 @@
                                     <h6 class="m-0 font-weight-bold text-primary" >Explaination</h6>
                                 </div>
                                 <!-- Card Body -->
-                                <div class="card-body" style="height:1000px">
+                                <div class="card-body" style="height:1400px">
                                     <div class="chart-pie pt-4 pb-2">
                                         <p>According to the heatmap generated from the correlation analysis, for cluster 0, the “50s age group” has the highest correlation to it, followed by “kids”, supporting our cluster analysis that it consisted of people wanting to work from home since they had kids. For cluster 1, we see the highest correlation between it and the “20s age group” which supports our cluster analysis that cluster 1 consists of people in their 20s who are focused on work-life balance and quality time (very likely with their kids due to “kids” being the second highest correlated variable to cluster 1).<br>
                                           The highest correlated pair, excluding the correlation plotted with clusters, was found between the variables "better work-life balance and quality time" with a value of 0.823. This result suggests that people who prefer to work from home are seeking better work-life balance and quality time. The second-highest correlated pair is the "50s age group" and "business" with a value of 0.725. We believe that this may be due to the fact that people in their 50s are of a certain managerial level and can afford to work from home to handle and manage their respective business teams. The third-highest correlated pair was observed between "better sleep" and "better work-life balance" with a value of 0.674. This is very likely since better sleep arises from better work-life balance, where one is more at ease as opposed to being stressed because of work. <br>

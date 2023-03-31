@@ -327,8 +327,29 @@
                       <USAcuteSenti v-if="sentiTimePage2=='Y21'" />
                       <USGreenSenti v-if="sentiTimePage2=='Y22'" />
 
-                    
-                    
+                    <div class = "row mb-3">
+                      <div class ="col">
+                         <h4 class="h3 mb-0 text-gray-800 mt-5">Sentiment Analysis With Statistics</h4>
+                      </div>
+                    </div>
+                    <div class="row" >
+                      <div class="col">
+                        <ul class="nav nav-tabs center">
+                          <li class="nav-item">
+                            <a class="nav-link active" id="SG" @click="changeSentiPage2('SG')">SG</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" id="US" @click="changeSentiPage2('US')">US</a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    <SentiCorrSG v-if="senti_corr=='SG'"/>
+                    <SentiCorrUS v-if="senti_corr=='US'"/>
+
+
+
+
                     <div class = "row mb-3">
                       <div class ="col">
                          <h4 class="h3 mb-0 text-gray-800 mt-5">Overall SG Topic And Sentiment</h4>
@@ -452,7 +473,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; HELLO WORLD 2023</span>
+                        <span>Copyright &copy; CoranaVision 2023</span>
                     </div>
                 </div>
             </footer>
@@ -501,10 +522,12 @@ import SocialCoronaQuote from "../components/corona_quote_network_sg.vue"
 import SocialCoronaReply from "../components/corona_reply_network_sg.vue"
 import SocialCovidQuoteUS from "../components/covid_quote_network_us.vue"
 import SocialCovidReplyUS from "../components/covid_reply_network_us.vue"
-
+import SentiCorrSG from "../components/senti_corr_sg.vue"
+import SentiCorrUS from "../components/senti_corr_us.vue"
 export default {
   data() {
       return {
+        senti_corr:"SG",
         us_social:"start_social_us",
         sg_social:"start_social_sg",
         us_topic:"start_topic_us",
@@ -572,11 +595,25 @@ export default {
     SocialCoronaQuote,
     SocialCoronaReply,
     SocialCovidQuoteUS,
-    SocialCovidReplyUS
+    SocialCovidReplyUS,
+    SentiCorrSG,
+    SentiCorrUS
   },
   methods:{
     routeChange(){
       this.$router.push({name: 'LiveAnalysis'});
+    },
+    changeSentiPage2(val){
+        this.senti_corr= val
+        console.log(this.us_social)
+         if(val=="SG"){
+              document.getElementById("SG").className="nav-link active"
+              document.getElementById("US").className="nav-link"
+           }else if(val=="US"){
+
+              document.getElementById("SG").className="nav-link"
+              document.getElementById("US").className="nav-link active"
+           }
     },
     changeSocialUS(val){
         this.us_social= val

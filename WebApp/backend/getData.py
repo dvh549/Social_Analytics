@@ -1066,367 +1066,367 @@ def getCluster():
             }
         ), 500
 
-@app.route("/getSentimentAnalysisStart")
-def getSentimentAnalysis():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSenti("start")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisStart")
+# def getSentimentAnalysis():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSenti("start")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getSentimentAnalysisCB")
-def getSentimentAnalysisCB():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSenti("cb")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisCB")
+# def getSentimentAnalysisCB():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSenti("cb")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getSentimentAnalysisPhases")
-def getSentimentAnalysisPhases():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSenti("phases")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisPhases")
+# def getSentimentAnalysisPhases():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSenti("phases")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getSentimentAnalysisAcutePhase")
-def getSentimentAnalysisAcutePhase():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSenti("acutePhase")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisAcutePhase")
+# def getSentimentAnalysisAcutePhase():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSenti("acutePhase")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getSentimentAnalysisGreen")
-def getSentimentAnalysisGreen():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSenti("green")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-
-@app.route("/getSentimentAnalysisStartUS")
-def getSentimentAnalysisUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSentiUS("start")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getSentimentAnalysisCBUS")
-def getSentimentAnalysisCBUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSentiUS("cb")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getSentimentAnalysisPhasesUS")
-def getSentimentAnalysisPhasesUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSentiUS("phases")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getSentimentAnalysisAcutePhaseUS")
-def getSentimentAnalysisAcutePhaseUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSentiUS("acutePhase")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getSentimentAnalysisGreenUS")
-def getSentimentAnalysisGreenUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessStartSentiUS("green")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getTopicStart")
-def getTopicStart():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicSg("start")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getTopicCB")
-def getTopicCB():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicSg("cb")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getTopicPhases")
-def getTopicPhases():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicSg("phases")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getTopicAcute")
-def getTopicAcute():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicSg("acutePhase")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
-
-@app.route("/getTopicGreen")
-def getTopicGreen():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicSg("green")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisGreen")
+# def getSentimentAnalysisGreen():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSenti("green")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
 
-@app.route("/getTopicStartUS")
-def getTopicStartUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicUS("start")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisStartUS")
+# def getSentimentAnalysisUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSentiUS("start")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getTopicCBUS")
-def getTopicCBUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicUS("cb")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisCBUS")
+# def getSentimentAnalysisCBUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSentiUS("cb")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getTopicPhasesUS")
-def getTopicPhasesUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicUS("phases")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisPhasesUS")
+# def getSentimentAnalysisPhasesUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSentiUS("phases")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getTopicAcuteUS")
-def getTopicAcuteUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicUS("acutePhase")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisAcutePhaseUS")
+# def getSentimentAnalysisAcutePhaseUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSentiUS("acutePhase")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
-@app.route("/getTopicGreenUS")
-def getTopicGreenUS():
-    try:
-        return jsonify(
-            {
-                "code": 200,
-                "message": preprocessTopicUS("green")
-            }
-        ), 200
-    except Exception as e:
-        print(e)
-        return jsonify(
-            {
-                "code": 500,
-                "message": "server error"
-            }
-        ), 500
+# @app.route("/getSentimentAnalysisGreenUS")
+# def getSentimentAnalysisGreenUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessStartSentiUS("green")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicStart")
+# def getTopicStart():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicSg("start")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicCB")
+# def getTopicCB():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicSg("cb")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicPhases")
+# def getTopicPhases():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicSg("phases")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicAcute")
+# def getTopicAcute():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicSg("acutePhase")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicGreen")
+# def getTopicGreen():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicSg("green")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+
+# @app.route("/getTopicStartUS")
+# def getTopicStartUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicUS("start")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicCBUS")
+# def getTopicCBUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicUS("cb")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicPhasesUS")
+# def getTopicPhasesUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicUS("phases")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicAcuteUS")
+# def getTopicAcuteUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicUS("acutePhase")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
+
+# @app.route("/getTopicGreenUS")
+# def getTopicGreenUS():
+#     try:
+#         return jsonify(
+#             {
+#                 "code": 200,
+#                 "message": preprocessTopicUS("green")
+#             }
+#         ), 200
+#     except Exception as e:
+#         print(e)
+#         return jsonify(
+#             {
+#                 "code": 500,
+#                 "message": "server error"
+#             }
+#         ), 500
 
 
 if __name__ == '__main__':

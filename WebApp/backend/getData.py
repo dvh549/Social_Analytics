@@ -435,7 +435,7 @@ def preprocessStartSenti(val):
     negative = start[start["Sentiment"] == "Negative"]
     neutral = start[start["Sentiment"] == "Neutral"]
     positive = start[start["Sentiment"] == "Positive"]
-    mask = np.array(Image.open("twitter.png"))
+    mask = np.array(Image.open("images/twitter.png"))
     #negative
     text = " ".join(tweet for tweet in negative.renderedContent)
     text = remove_mult_spaces(filter_chars(clean_hashtags(strip_all_entities(strip_emoji(text)))))
@@ -638,20 +638,16 @@ def preprocessTopicSg(val):
     cur = conn.cursor()
     if val =="start":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM sg_tweets  WHERE (date BETWEEN '2020-01-01 00:00:00' AND '2020-03-31 23:59:59') ;")
-        
-        # lda_model_saved_file = datapath("models/topic/sg_start_lda_vis_tuned")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/SG/sg_start_lda_model_18")
         num_topics= 18
     elif val =="cb":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM sg_tweets  WHERE (date BETWEEN '2020-04-01 00:00:00' AND '2022-05-31 23:59:59') ;")
-        # lda_model_saved_file = datapath("../models/topic/sg_circuit_lda_vis_model")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/SG/sg_circuit_lda_model_17")
 
         num_topics= 17
 
     elif val =="phases":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM sg_tweets  WHERE (date BETWEEN '2020-06-01 00:00:00' AND '2021-11-30 23:59:59') ;")
-        # lda_model_saved_file = datapath("../models/topic/sg_phases_lda_vis_model")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/SG/sg_phases_lda_model_11")
         num_topics= 11
 
@@ -663,7 +659,6 @@ def preprocessTopicSg(val):
 
     elif val =="green":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM sg_tweets  WHERE (date BETWEEN '2023-02-01 00:00:00' AND '2023-12-31 23:59:59') ;")
-        # lda_model_saved_file = datapath("../models/topic/sg_green_lda_vis_model")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/SG/sg_green_lda_model_6")
         num_topics= 18
 
@@ -821,20 +816,16 @@ def preprocessTopicUS(val):
     cur = conn.cursor()
     if val =="start":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM us_tweets  WHERE (date BETWEEN '2020-01-01 00:00:00' AND '2020-03-22 23:59:59') ;")
-        
-        # lda_model_saved_file = datapath("models/topic/sg_start_lda_vis_tuned")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/US/us_start_lda_model_15")
         num_topics= 15
     elif val =="cb":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM us_tweets  WHERE (date BETWEEN '2020-04-01 00:00:00' AND '2022-05-31 23:59:59') ;")
-        # lda_model_saved_file = datapath("../models/topic/sg_circuit_lda_vis_model")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/US/us_circuit_lda_model_11")
 
         num_topics= 11
 
     elif val =="phases":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM us_tweets  WHERE (date BETWEEN '2020-01-01 00:00:00' AND '2020-12-30 23:59:59') ;")
-        # lda_model_saved_file = datapath("../models/topic/sg_phases_lda_vis_model")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/US/us_2020_lda_model_7")
         num_topics= 7
 
@@ -845,7 +836,6 @@ def preprocessTopicUS(val):
 
     elif val =="green":
         cur.execute("SELECT url, date,rawContent,renderedContent, id, user, replyCount, retweetCount, likeCount, quoteCount, converstationID,lang, source, sourceUrl, sourceLabel, links, media, retweetedTweet, quotedTweet, inReplyToTweetId, inReplyToUser,mentionedUsers, coordinates, place,hashtags,cashtags, card, viewCount, vibe FROM us_tweets  WHERE (date BETWEEN '2022-01-01 00:00:00' AND '2023-12-31 23:59:59') ;")
-        # lda_model_saved_file = datapath("../models/topic/sg_green_lda_vis_model")
         lda_model = gensim.models.ldamodel.LdaModel.load("models/LDA models/LDA models/US/us_2022_lda_model_19")
         num_topics= 19
 

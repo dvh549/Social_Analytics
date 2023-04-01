@@ -26,7 +26,7 @@
                 <div class="card-body" style="height:700px; overflow-y: scroll;">
                     <div class="chart-area">
                         <p>
-                            <strong>Do take note this is an analysis with "covid" and "coronavirus" quote/reply network</strong>
+                            <strong>Do take note this is an analysis of quote/reply network</strong>
                             <br/>
 
                             <span style="color:orange;">"DTrain”</span> - Dennis Chiuten has high betweenness centrality. Upon further research, he is a native New Yorker, and he moved to Singapore to start a career in investment banking. As a result, he can act as a bridge between two communities of people, his followers in the United States and his followers in Singapore. He discussed about the Covid-19 situation globally and provided his opinions, including differences between how Asian countries and Western countries managed Covid-19 issues such as mask-wearing. The sentiment towards the topics discussed had a balance of positive and negative reactions. Our model predicted mainly “Fake” news however his tweets were mainly his opinions. While DTrain's opinions may not necessarily be considered "Fake" news, they are subjective and may not be backed by scientific evidence or expert consensus. For instance, one of his tweets reads, “Strike me down, coronavirus, and I will become more powerful than you could ever possibly imagine”. This tweet may be interpreted differently by different people and may not be relevant to everyone. As an information broker with a relatively smaller reach of 3000 followers, DTrain may not be ideal to spread information to large groups of people. 

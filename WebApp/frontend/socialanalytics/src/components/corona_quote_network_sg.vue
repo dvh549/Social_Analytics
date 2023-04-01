@@ -26,7 +26,7 @@
                 <div class="card-body" style="height:700px; overflow-y: scroll;">
                     <div class="chart-area">
                         <p>
-                            <strong>Do take note this is an analysis with "covid" and "coronavirus" quote/reply network </strong>
+                            <strong>Do take note this is an analysis of quote/reply network </strong>
                             <br/>
 
 

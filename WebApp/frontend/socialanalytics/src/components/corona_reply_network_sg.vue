@@ -26,7 +26,7 @@
                 <div class="card-body" style="height:700px; overflow-y: scroll;">
                     <div class="chart-area">
                         <p>
-                            <strong>Do take note this is an analysis with "covid" and "coronavirus" quote/reply network</strong>
+                            <strong>Do take note this is an analysis of quote/reply network</strong>
                             <br/>
 
                         <span style="color:orange">“mrbrown”</span> - pseudonym of Lee Kin Mun, a Singaporean blogger, writer, and internet personality. He is known for his humorous commentary on current affairs and social issues in Singapore.  He has high in-degree centrality, which suggests that his opinions are valued by his followers. He discussed mostly about the Covid-19 situation in Hong Kong and in Singapore. The reason for his high in-degree centrality could be his humorous and witty commentary on current events. The sentiment towards the topics discussed had a balance of positive, neutral, and negative reactions.  Our model predicted mainly “Fake” news, likely due to his writing style that includes informal language and sometimes sarcasm. Despite this, his tweets generally provide factual information, and he can be ideal to spread information and opinions to those who appreciate his humour and commentary. 

@@ -10,7 +10,7 @@
                 <div class="card-body" style="height:700px; overflow-y: scroll;">
                     <div class="chart-area">
                         <p>
-                            <strong>Do take note this is an analysis with "covid" and "coronavirus" quote/reply network, due to the network complexity the network is not shown </strong>
+                            <strong>Do take note this is an analysis of quote/reply network, due to the network complexity the network is not shown </strong>
                             <br/>
                             
                             “aeidinger” - Washington dc businessman and cannabis rights activities. His tweets have covered many different topics, cannabis, politics, more. As he has many hands in different topics, he often replies to other users tweets which is evident in his high betweenness centrality score. The sentiment towards the topics discussed was mostly negative.  

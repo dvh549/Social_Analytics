@@ -10,6 +10,7 @@ kw_extractor = yake.KeywordExtractor(n=3, top=3, stopwords=stopwords)
 
 def retrieve_tweets_sentiments_and_keywords(no_of_tweets, location):
     query, tweets_list = f'covid within_time:30m lang:en near:"{location}"', []
+    # query, tweets_list = f'covid within_time:1d lang:en near:"{location}"', []
     for i, tweet in enumerate(sntwitter.TwitterSearchScraper(query).get_items()): 
         if i >= no_of_tweets: # number of tweets you want to scrape
             break
